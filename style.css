@@ -14,7 +14,7 @@ h2 {
 }
 
 h3 {
-    margin-left: 30px;
+    margin-left: 20px;
 }
 
 p {
@@ -23,4 +23,17 @@ p {
 
 ul{
     margin-left: 40px;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-image: linear-gradient(to right, dodgerblue, deepskyblue);
+  color: white;
+}
+
+.footer a{
+    color: white;
 }
