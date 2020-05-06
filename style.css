@@ -6,7 +6,7 @@ h1 {
     color: white;
     background-color: deepskyblue;
     margin:0;
-    padding: .5em;
+    padding: 1em;
 }
 
 h2 {
@@ -14,9 +14,9 @@ h2 {
 }
 
 h3 {
-    margin-left: 1.5em;
+    margin-left: 2em;
 }
 
 p {
-    margin-left: 2em;
+    margin-left: 3em;
 }
