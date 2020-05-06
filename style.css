@@ -3,7 +3,9 @@ body {
 }
 h1 {
     color: white;
-    background-color: powderblue;
+    background-color: deepskyblue;
+    margin:0;
+    padding: .5em;
 }
 
 p {
