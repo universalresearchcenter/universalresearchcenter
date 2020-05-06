@@ -1,5 +1,6 @@
 body {
     font-family: times;
+    margin:0;
 }
 h1 {
     color: white;
@@ -8,6 +9,14 @@ h1 {
     padding: .5em;
 }
 
-p {
+h2 {
     margin-left: 1em;
+}
+
+h3 {
+    margin-left: 1.5em;
+}
+
+p {
+    margin-left: 2em;
 }
