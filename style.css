@@ -4,7 +4,7 @@ body {
 }
 h1 {
     color: white;
-    background-image: linear-gradient(to right, deepskyblue , dodgerblue);
+    background-image: linear-gradient(to right, dodgerblue, deepskyblue);
     margin:0;
     padding: 20px;
 }
