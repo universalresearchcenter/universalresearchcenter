@@ -25,6 +25,10 @@ ul{
     margin-left: 40px;
 }
 
+ol{
+    margin-left: 40px;
+}
+
 .footer {
   position: fixed;
   left: 0;
