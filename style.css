@@ -2,11 +2,14 @@ body {
     font-family: times;
     margin:0;
 }
+
+
 h1 {
     color: white;
     background-image: linear-gradient(to right, dodgerblue, deepskyblue);
     margin:0;
     padding: 20px;
+    font-family: times;
 }
 
 h2 {
