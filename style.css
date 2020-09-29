@@ -42,7 +42,7 @@ ol{
 .footer {
   position: fixed;
   bottom: 0;
-  width: 100%;
+  width: 800px;
   background-image: linear-gradient(to right, dodgerblue, deepskyblue);
   color: white;
 }
