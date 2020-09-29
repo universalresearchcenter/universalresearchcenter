@@ -5,7 +5,7 @@ body {
 }
 
 .content {
-    width:800px;
+    width:1000px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -42,7 +42,7 @@ ol{
 .footer {
   position: fixed;
   bottom: 0;
-  width: 800px;
+  width: 1000px;
   background-image: linear-gradient(to right, dodgerblue, deepskyblue);
   color: white;
 }
