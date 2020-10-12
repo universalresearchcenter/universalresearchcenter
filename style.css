@@ -41,7 +41,7 @@ ol{
 }
 
 .footer {
-  position: fixed;
+  position: absolute;
   bottom: 0;
   width: 1000px;
   background-image: linear-gradient(to right, dodgerblue, deepskyblue);
